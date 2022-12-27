@@ -1,0 +1,317 @@
+@font-face {
+    font-family: Inter;
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
+}
+
+body {
+    background-color: #F5F5F5;;
+}
+.img1{
+    position: absolute;
+    width: 647px;
+    height: 323px;
+    left: 415px;
+    top: 20px;
+}
+.img2{
+    position: absolute;
+    width: 171px;
+    height: 222px;
+    left: 514px;
+    top: 372px;
+}
+.img3{
+    position: absolute;
+    width: 208px;
+    height: 322px;
+    left: 698px;
+    top: 656px;
+}
+.text > p{
+    position: absolute;
+    width: 208px;
+    height: 204px;
+    left: 698px;
+    top: 390px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 15px;
+
+    color: #000000;
+
+}
+.text > h3{
+    position: absolute;
+    width: 267px;
+    height: 13px;
+    left: 697px;
+    top: 360px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 15px;
+
+    color: #000000;
+}
+.text1 >h2 {
+    position: absolute;
+    width: 267px;
+    height: 12px;
+    left: 514px;
+    top: 656px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.text1>h3{
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 699px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+    
+
+}
+.text1>p{
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 712px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+}
+.text2>h3{
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 734px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+}
+.text2>p{
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 749px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+}
+.text3>h3{
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 771px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+}
+.text3>p{
+    position: absolute;
+    width: 175px;
+    height: 14px;
+    left: 514px;
+    top: 784px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #000000;
+
+}
+.t4>h3{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 806px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t4>p{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 821px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t5>h3{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 843px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t5>p{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 856px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t6>h3{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 878px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t6>p{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 892px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t7>h3{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 915px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t7>p{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 928px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t8>h3{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 950px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+}
+.t8>p{
+    position: absolute;
+width: 175px;
+height: 14px;
+left: 514px;
+top: 965px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+padding-bottom: 45px;
+}
